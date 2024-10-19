@@ -1,6 +1,6 @@
 {
   "name": "@libtommy2024/ea-rerum-hic-odio",
-  "version": "8.16.156",
+  "version": "8.16.157",
   "description": "",
   "main": "index.js",
   "author": "OraliePham",
@@ -178,5 +178,5 @@
   "bugs": {
     "url": "https://github.com/libtommy2024/ea-rerum-hic-odio/issues"
   },
-  "packageManager": "yarn@4.5.0"
+  "packageManager": "yarn@4.5.1"
 }
